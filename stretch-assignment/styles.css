@@ -17,6 +17,7 @@ body {
 
 .block--red {
   background-color: red;
+
 }
 
 .block--blue {
@@ -34,3 +35,5 @@ body {
 .block--gray {
   background-color: gray;
 }
+
+
